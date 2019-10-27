@@ -8,13 +8,18 @@
 
 body{
     background-color:#bdb29c;
+    
     margin-right: 500px;
     margin-left: 500px;
+    
     height:550px;
     margin-bottom: 0px;
     width:300px;
     padding-bottom: 0px;
     margin-top: -50;
+
+
+  
 }
 
 
@@ -128,8 +133,7 @@ p{
 .next {
     border-radius: 3px 0 0 3px;
     right: 8px;
-    left: 314.;
-    left: 315.406;
+    left: 315.406px;
     padding-left: 0px;
     padding-top: 0px;
     padding-bottom: 0px;
@@ -138,7 +142,7 @@ p{
 }
 .prev{
     right: 0px;
-    left: -25;
+    left: -25px;
     padding-right: 0px;
     padding-left: 0px;
     margin-top: 0px;
